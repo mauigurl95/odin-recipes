@@ -1,4 +1,2 @@
-TOP Foundation Lesson - Creating a recipe website
-Use HTML boilerplate
-Add recipe
-Input images or hyperlinks as needed
+A website I've created using recipes I've copied from other websites. 
+Putting HTML basics into practice.
